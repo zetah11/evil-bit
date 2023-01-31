@@ -3,7 +3,7 @@
 Generates images by creating a random integer expression and plotting the
 result. The expressions may contain constant integers, variables (`x` or `y`),
 addition, multiplication and remainder, and a few different bitwise operations.
-This program also uses [egg](https://egraphs-good.github.io/) to simplify th
+This program also uses [egg](https://egraphs-good.github.io/) to simplify the
 generated expressions.
 
 Images are output in the terminal using ANSI colors.
